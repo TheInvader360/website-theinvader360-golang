@@ -1,0 +1,164 @@
+{
+  "apps": [
+    {
+      "id": 4,
+      "name": "Quack Attack",
+      "image": "quack-attack.png",
+      "description": "Quack Attack is a fun casual Duck Hunting game!",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.duckhunt.quackattackfree",
+      "urlAmazon": "https://www.amazon.com/gp/product/B00CD4KOXY",
+      "urlApk": "",
+      "sortOrder": 0
+    },
+    {
+      "id": 16,
+      "name": "Hungry Caterpillar",
+      "image": "hungry-caterpillar.png",
+      "description": "Classic snake game updated - play on phone or tablet using one tap controls, or fire tv using a remote or game controller!",
+      "urlPlay": "",
+      "urlAmazon": "https://www.amazon.com/gp/product/B076NWQ77S",
+      "urlApk": "",
+      "sortOrder": 1
+    },
+    {
+      "id": 15,
+      "name": "Tappy Run",
+      "image": "tappy-run.png",
+      "description": "Fun infinite running game with blocky voxel graphics and one tap controls!",
+      "urlPlay": "",
+      "urlAmazon": "",
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/TappyRun.apk",
+      "sortOrder": 2
+    },
+    {
+      "id": 5,
+      "name": "4 Games 1 Screen",
+      "image": "4-games-1-screen.png",
+      "description": "Play four different games, all at the same time... 4 Games 1 Screen is the ultimate brain training challenge!",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.braintraining.fourgamesonescreen.free",
+      "urlAmazon": "",
+      "urlApk": "",
+      "sortOrder": 3
+    },
+    {
+      "id": 8,
+      "name": "Super Jump",
+      "image": "super-jump.png",
+      "description": "Super Jump is a super fun infinite platform jumping game!",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.jumping.superjumpadoodle.free",
+      "urlAmazon": "",
+      "urlApk": "",
+      "sortOrder": 4
+    },
+    {
+      "id": 11,
+      "name": "Jewel Match",
+      "image": "jewel-match.png",
+      "description": "Jewel Match is a challenging and addictive jewel matching puzzle game!",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.jewel.match.blitz.game.free.android",
+      "urlAmazon": "",
+      "urlApk": "",
+      "sortOrder": 5
+    },
+    {
+      "id": 7,
+      "name": "Fruit Run Slot Machine",
+      "image": "fruit-run-slot-machine.png",
+      "description": "Like slot machines, fruit machines, and one armed bandits? Play this game!",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.casino.fruitslotmachine.free",
+      "urlAmazon": "",
+      "urlApk": "",
+      "sortOrder": 6
+    },
+    {
+      "id": 10,
+      "name": "Little Fish",
+      "image": "little-fish.png",
+      "description": "Little Fish is a fun game for all ages - eat the smaller fish and avoid being eaten by the bigger fish!",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.fishy.fishing.fish.game.free",
+      "urlAmazon": "",
+      "urlApk": "",
+      "sortOrder": 7
+    },
+    {
+      "id": 1,
+      "name": "Racing Game",
+      "image": "racing-game.png",
+      "description": "Simple casual racing game. Tilt to steer, avoid going off road, finish in the best time possible!",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.mrdt.racegame",
+      "urlAmazon": "",
+      "urlApk": "",
+      "sortOrder": 8
+    },
+    {
+      "id": 6,
+      "name": "Street Race Swipe",
+      "image": "street-race-swipe.png",
+      "description": "Street Race Swipe is a fun simple casual racing game!",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.racing.streetraceswipe.free",
+      "urlAmazon": "",
+      "urlApk": "",
+      "sortOrder": 9
+    },
+    {
+      "id": 3,
+      "name": "Zombie Survival",
+      "image": "zombie-survival.png",
+      "description": "Touch the screen to guide your character away from the chasing zombies!",
+      "urlPlay": "",
+      "urlAmazon": "",
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/ZombieSurvival.apk",
+      "sortOrder": 10
+    },
+    {
+      "id": 14,
+      "name": "Count 1 to 10",
+      "image": "count-1-to-10.png",
+      "description": "Learn to count from 1 to 10 in English, French, German, Italian, Japanese, Chinese, Spanish, and Welsh",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.counting.app.free",
+      "urlAmazon": "",
+      "urlApk": "",
+      "sortOrder": 11
+    },
+    {
+      "id": 9,
+      "name": "Game Services Tutorial",
+      "image": "game-services-tutorial.png",
+      "description": "Companion app to the google play game services tutorial. Source on github, tutorial on blog.",
+      "urlPlay": "",
+      "urlAmazon": "",
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/GameServicesTutorial.apk",
+      "sortOrder": 12
+    },
+    {
+      "id": 2,
+      "name": "3D Game Engine",
+      "image": "3d-game-engine.png",
+      "description": "A basic 3D game engine built using LibGdx. Source on github.",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.mrdt.arenaroamer",
+      "urlAmazon": "",
+      "urlApk": "",
+      "sortOrder": 13
+    },
+    {
+      "id": 12,
+      "name": "Sensory",
+      "image": "sensory.png",
+      "description": "Multitouch cause and effect app (for people with special needs and young children). Source on github.",
+      "urlPlay": "",
+      "urlAmazon": "",
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/Sensory.apk",
+      "sortOrder": 14
+    },
+    {
+      "id": 13,
+      "name": "Sensory Live Wallpaper",
+      "image": "sensory-wallpaper.png",
+      "description": "Colourful starburst particle effects on your home screen. Source on github.",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.sensory.live.wallpaper.free.android",
+      "urlAmazon": "",
+      "urlApk": "",
+      "sortOrder": 15
+    }
+  ]
+}

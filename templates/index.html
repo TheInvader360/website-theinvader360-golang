@@ -1,0 +1,17 @@
+{{template "header.html" .}}
+    <div class="container">
+      <div class="row text-center apps" data-bootstrap-eh=".thumbnail">
+        {{range .payload}}
+          <div class="col-md-3 col-sm-4 col-xs-6">
+            <div class="thumbnail bootstrap-eh bootstrap-eh-active" style="height: 404px;">
+              <a href="/app/{{.ID}}"><img class="appIcon" alt="{{.Name}}" src="/assets/images/{{.Image}}"></a>
+              <div class="caption">
+                <h4><a href="/app/{{.ID}}">{{.Name}}</a></h4>
+                <p class="appDescription hidden-xs">{{.Description}}</p>
+              </div>
+            </div>
+          </div>
+        {{end}}
+      </div>
+    </div>
+{{template "footer.html" .}}

@@ -1,0 +1,174 @@
+/* ========================================================================
+ * http://bootbites.com/tutorials/responsive-equal-height-columns-bootstrap
+ * http://bootbites.com/demos/equalheight-columns/demos.html (Demo 5)
+ * ======================================================================== */
+.bootstrap-eh {
+  /* all bootstrap equal height target elements */
+}
+.bootstrap-eh-active {
+  /* height value has been applied ie. has style="height:230px" value */
+  position: relative;
+}
+.bootstrap-eh-active .bootstrap-eh-pull-bottom {
+  /* pulls element to the bottom once height is set */
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: auto;
+}
+.bootstrap-eh-active .bootstrap-eh-pull-center {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.bootstrap-eh-active.thumbnail .bootstrap-eh-pull-bottom {
+  /* thumbnail integration */
+  margin: 0;
+  bottom: 0px;
+  left: 10px;
+  right: 10px;
+}
+
+/* Mobile first defaults*/
+body {
+  background-color: #292c2f;
+}
+
+.navbar {
+  background-color: #292c2f;
+  color: #8f9296;
+  margin-bottom: 0px;
+  border: 0px
+}
+.navbar-brand {
+  padding: 10px;
+  height: 50px;
+  line-height: 50px;
+  vertical-align: middle;
+}
+.navbar-brand img {
+  height: 100%;
+  width: auto;
+}
+.navbar-right {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.headerBackground {
+  background-color: #292c2f;
+}
+.jumbotron {
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/jumbotron.png") center center;
+  background-color: #999999;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  color: white;
+  text-shadow: black 0em 0em 0.3em, black 0em 0em 0.3em, black 0em 0em 0.3em, black 0em 0em 0.3em;
+  padding: 20px;
+}
+.panel {
+  margin-top: 30px;
+  padding: 20px;
+}
+.app-type-tab-bar {
+  padding-top: 10px;
+  width: 100%;
+  background-color: #292c2f;
+}
+.app-type-tab-bar .nav-tabs {
+  margin-bottom: -1px;
+}
+.app-type-tab-bar .nav-tabs a {
+  color: #8f9296;
+}
+.app-type-tab-bar .nav-tabs .active a {
+  color: #292c2f !important;
+}
+.app-type-tab-bar .nav-tabs > li > a:hover {
+  color: #292c2f !important;
+  background-color: #e7ebe7; !important;
+}
+.app-type-tab-bar .nav-tabs > li.active > a:hover {
+  color: #292c2f !important;
+  background-color: #e7ebe7; !important;
+}
+.app-type-tab-bar .nav-tabs > li.active > a {
+  color: #292c2f !important;
+  background-color: #e7ebe7; !important;
+}
+.apps {
+  padding-top: 15px;
+}
+.thumbnail {
+  padding-top: 14px;
+}
+.appIcon {
+  width: 100px;
+}
+.appDescription {
+  text-align: center;
+}
+.downloadButton {
+  width: 150px;
+}
+.footer {
+  bottom: 0;
+  background-color: #292c2f;
+  color: #8f9296;
+  width: 100%;
+  font: normal 16px sans-serif;
+  padding: 45px 0px;
+  margin-top: 30px;
+  text-align: center;
+}
+.footerIcon {
+  width: 60px;
+  padding: 5px;
+}
+.footerText {
+  margin-top: 20px;
+}
+.contactHeader {
+  margin-bottom: 30px;
+}
+.contactHeaderIcon {
+  width: 30px;
+  padding: 3px;
+}
+
+/* Overrides for anything larger than 768px wide */
+@media only screen and (min-width: 768px){
+  .navbar-brand {
+    height:80px;
+    line-height: 80px;
+  }
+  .navbar-right {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  .apps {
+    padding-top: 30px;
+  }
+  .appIcon {
+    width: 150px;
+  }
+  .appDescription {
+    text-align: left;
+  }
+  .downloadButton {
+    width: 200px;
+  }
+  .footerIcon {
+    width: 80px;
+    padding: 10px;
+  }
+  .contactHeaderIcon {
+    width: 40px;
+    padding: 4px;
+  }
+}

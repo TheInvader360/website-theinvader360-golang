@@ -1,0 +1,39 @@
+{
+  "presences": [
+    {
+      "label": "playstore",
+      "url": "http://play.google.com/store/apps/developer?id=TheInvader360",
+      "sortOrder": 0
+    },
+    {
+      "label": "amazon",
+      "url": "http://www.amazon.co.uk/s?field-brandtextbin=TheInvader360",
+      "sortOrder": 1
+    },
+    {
+      "label": "blog",
+      "url": "http://blog.theinvader360.com",
+      "sortOrder": 2
+    },
+    {
+      "label": "youtube",
+      "url": "http://www.youtube.com/TheInvader360",
+      "sortOrder": 3
+    },
+    {
+      "label": "facebook",
+      "url": "http://www.facebook.com/TheInvader360",
+      "sortOrder": 4
+    },
+    {
+      "label": "twitter",
+      "url": "http://www.twitter.com/theinvader360",
+      "sortOrder": 5
+    },
+    {
+      "label": "github",
+      "url": "http://www.github.com/TheInvader360",
+      "sortOrder": 6
+    }
+  ]
+}

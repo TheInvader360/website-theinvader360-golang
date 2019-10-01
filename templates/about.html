@@ -1,0 +1,17 @@
+{{template "header.html" .}}
+    <div class="container">
+      <div class="panel">
+        <h2>About Me</h2>
+        <br>
+        <p>Hi, I'm TheInvader360, a software developer based in sunny North Wales.</p>
+        <p>I develop business software for a commercial company to pay the bills, and I like to make games in my spare time for fun. Sometimes the games help me pay the bills too, it's really nice when that happens :)</p>
+        <p>I started writing my very first games back when I was about eight years old, armed with a sinclair spectrum and a library card. I'm now in my thirties, with a couple of children of my own! It seems I'm a "grown up" now, with adult responsibilities. I have to think about grown up things, like mortgages, and school catchment areas, and pensions... That said, I still manage to find time to play games, and to <a href="/">make my own ones too</a>.</p>
+        <p>I publish android games on the <a href="{{(index .presences 0).URL}}">Google Play Store</a>. I've also dabbled with the <a href="{{(index .presences 1).URL}}">Amazon</a> market in the past. I'm interested in targeting the Fire TV platform, so will likely publish more games there in future. I might also consider targeting Apple devices at some point, along with desktop (Linux, Mac, Windows), and I think VR is definitely going to happen. I guess I need to find some more time!</p>
+        <p>I like free software. My games are made using free tools, Linux, Eclipse, LibGdx, Gimp, Audacity, Blender, there's a definite theme! I've recently started working with Unity too, not exactly free, but for small indies it may as well be. In return, all my <a href="/">games</a> are free to play!</p>
+        <p>I publish a <a href="{{(index .presences 2).URL}}">blog</a> - there are some helpful tutorial articles there (all LibGdx based so far, but I have some ideas for Unity ones in the future), I sometimes post development progress and general musings related to mobile gaming and development too.</p>
+        <p>Somewhat linked in with the <a href="{{(index .presences 2).URL}}">blog</a> is my <a href="{{(index .presences 6).URL}}">GitHub</a> account. There are a few little example apps on there that may be of interest to other developers getting started. I also have a <a href="{{(index .presences 3).URL}}">YouTube</a> channel that I plan to make more use of in future, namely using it to publish video tutorials. I'm quite intrigued by the idea of Kindle publishing too, that's something else I would like to get round to at some point.</p>
+        <p>I hope you check out my <a href="/">games</a>, and if you like them, maybe read along on the <a href="{{(index .presences 2).URL}}">blog</a>, subscribe to my <a href="{{(index .presences 3).URL}}">YouTube</a> channel, like me on <a href="{{(index .presences 4).URL}}">Facebook</a>, and follow me on <a href="{{(index .presences 5).URL}}">Twitter</a>!</p>
+        <p>Most of all, I hope you have a whole lot of fun!</p>
+      </div>
+    </div>
+{{template "footer.html" .}}

@@ -1,0 +1,20 @@
+{{template "header.html" .}}
+    <div class="container">
+      <div class="panel text-center">
+        <p class="text-left"><a href="/">&lt;&lt; All Apps</a></p>
+        <img class="appIcon" alt="{{.payload.Name}}" src="/assets/images/{{.payload.Image}}">
+        <h2>{{.payload.Name}}</h2>
+        <h4>{{.payload.Description}}</h4>
+        <br>
+        {{if .payload.URLPlay}}
+        <a href="{{.payload.URLPlay}}"><img class="downloadButton" alt="Get it on Google Play" src="/assets/images/downloadPlaystore.png"></a>
+        {{end}}
+        {{if .payload.URLAmazon}}
+        <a href="{{.payload.URLAmazon}}"><img class="downloadButton" alt="Get it on Amazon" src="/assets/images/downloadAmazon.png"></a>
+        {{end}}
+        {{if .payload.URLApk}}
+        <a href="{{.payload.URLApk}}"><img class="downloadButton" alt="Download APK" src="/assets/images/downloadApk.png"></a>
+        {{end}}
+      </div>
+    </div>
+{{template "footer.html" .}}
