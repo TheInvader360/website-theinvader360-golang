@@ -7,7 +7,7 @@
       "description": "Quack Attack is a fun casual Duck Hunting game!",
       "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.duckhunt.quackattackfree",
       "urlAmazon": "https://www.amazon.com/gp/product/B00CD4KOXY",
-      "urlApk": "",
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/QuackAttack.apk",
       "sortOrder": 0
     },
     {
@@ -15,9 +15,9 @@
       "name": "Hungry Caterpillar",
       "image": "hungry-caterpillar.png",
       "description": "Classic snake game updated - play on phone or tablet using one tap controls, or fire tv using a remote or game controller!",
-      "urlPlay": "",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.greedy.caterpillar.snake.game",
       "urlAmazon": "https://www.amazon.com/gp/product/B076NWQ77S",
-      "urlApk": "",
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/GreedyCaterpillar.apk",
       "sortOrder": 1
     },
     {
@@ -25,7 +25,7 @@
       "name": "Tappy Run",
       "image": "tappy-run.png",
       "description": "Fun infinite running game with blocky voxel graphics and one tap controls!",
-      "urlPlay": "",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.tap.run",
       "urlAmazon": "",
       "urlApk": "https://github.com/TheInvader360/apks/raw/master/TappyRun.apk",
       "sortOrder": 2
@@ -37,7 +37,7 @@
       "description": "Play four different games, all at the same time... 4 Games 1 Screen is the ultimate brain training challenge!",
       "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.braintraining.fourgamesonescreen.free",
       "urlAmazon": "",
-      "urlApk": "",
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/4Games1Screen.apk",
       "sortOrder": 3
     },
     {
@@ -47,7 +47,7 @@
       "description": "Super Jump is a super fun infinite platform jumping game!",
       "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.jumping.superjumpadoodle.free",
       "urlAmazon": "",
-      "urlApk": "",
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/SuperJump.apk",
       "sortOrder": 4
     },
     {
@@ -57,7 +57,7 @@
       "description": "Jewel Match is a challenging and addictive jewel matching puzzle game!",
       "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.jewel.match.blitz.game.free.android",
       "urlAmazon": "",
-      "urlApk": "",
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/JewelMatch.apk",
       "sortOrder": 5
     },
     {
@@ -67,7 +67,7 @@
       "description": "Like slot machines, fruit machines, and one armed bandits? Play this game!",
       "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.casino.fruitslotmachine.free",
       "urlAmazon": "",
-      "urlApk": "",
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/FruitRunSlotMachine.apk",
       "sortOrder": 6
     },
     {
@@ -77,7 +77,7 @@
       "description": "Little Fish is a fun game for all ages - eat the smaller fish and avoid being eaten by the bigger fish!",
       "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.fishy.fishing.fish.game.free",
       "urlAmazon": "",
-      "urlApk": "",
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/LittleFish.apk",
       "sortOrder": 7
     },
     {
@@ -87,7 +87,7 @@
       "description": "Simple casual racing game. Tilt to steer, avoid going off road, finish in the best time possible!",
       "urlPlay": "https://play.google.com/store/apps/details?id=com.mrdt.racegame",
       "urlAmazon": "",
-      "urlApk": "",
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/RacingGame.apk",
       "sortOrder": 8
     },
     {
@@ -97,7 +97,7 @@
       "description": "Street Race Swipe is a fun simple casual racing game!",
       "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.racing.streetraceswipe.free",
       "urlAmazon": "",
-      "urlApk": "",
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/StreetRaceSwipe.apk",
       "sortOrder": 9
     },
     {
@@ -105,10 +105,20 @@
       "name": "Zombie Survival",
       "image": "zombie-survival.png",
       "description": "Touch the screen to guide your character away from the chasing zombies!",
-      "urlPlay": "",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.mrdt.zombiesurvivalgame",
       "urlAmazon": "",
       "urlApk": "https://github.com/TheInvader360/apks/raw/master/ZombieSurvival.apk",
       "sortOrder": 10
+    },
+    {
+      "id": 17,
+      "name": "Maths Quiz",
+      "image": "maths-quiz.png",
+      "description": "A simple and fun maths quiz game with addition, subtraction, multiplication, and division problems.",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.quiz.maths",
+      "urlAmazon": "",
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/MathsQuiz.apk",
+      "sortOrder": 11
     },
     {
       "id": 14,
@@ -117,18 +127,18 @@
       "description": "Learn to count from 1 to 10 in English, French, German, Italian, Japanese, Chinese, Spanish, and Welsh",
       "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.counting.app.free",
       "urlAmazon": "",
-      "urlApk": "",
-      "sortOrder": 11
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/Count1To10.apk",
+      "sortOrder": 12
     },
     {
       "id": 9,
       "name": "Game Services Tutorial",
       "image": "game-services-tutorial.png",
       "description": "Companion app to the google play game services tutorial. Source on github, tutorial on blog.",
-      "urlPlay": "",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.tutorial.libgdx.gameservices",
       "urlAmazon": "",
       "urlApk": "https://github.com/TheInvader360/apks/raw/master/GameServicesTutorial.apk",
-      "sortOrder": 12
+      "sortOrder": 13
     },
     {
       "id": 2,
@@ -137,18 +147,18 @@
       "description": "A basic 3D game engine built using LibGdx. Source on github.",
       "urlPlay": "https://play.google.com/store/apps/details?id=com.mrdt.arenaroamer",
       "urlAmazon": "",
-      "urlApk": "",
-      "sortOrder": 13
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/3DGameEngine.apk",
+      "sortOrder": 14
     },
     {
       "id": 12,
       "name": "Sensory",
       "image": "sensory.png",
       "description": "Multitouch cause and effect app (for people with special needs and young children). Source on github.",
-      "urlPlay": "",
+      "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.sensory.app.free.android",
       "urlAmazon": "",
       "urlApk": "https://github.com/TheInvader360/apks/raw/master/Sensory.apk",
-      "sortOrder": 14
+      "sortOrder": 15
     },
     {
       "id": 13,
@@ -157,8 +167,8 @@
       "description": "Colourful starburst particle effects on your home screen. Source on github.",
       "urlPlay": "https://play.google.com/store/apps/details?id=com.theinvader360.sensory.live.wallpaper.free.android",
       "urlAmazon": "",
-      "urlApk": "",
-      "sortOrder": 15
+      "urlApk": "https://github.com/TheInvader360/apks/raw/master/SensoryLiveWallpaper.apk",
+      "sortOrder": 16
     }
   ]
 }
